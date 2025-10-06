@@ -34,6 +34,4 @@ I'm a full-stack software developer with a strong preference for **microservices
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravhirizaldi&show_icons=true&theme=radical)](https://github.com/ravhirizaldi)
-
 > 📘 “Keep it practical, stay curious, build with purpose.”
